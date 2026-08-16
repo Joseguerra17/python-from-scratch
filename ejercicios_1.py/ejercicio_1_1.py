@@ -3,8 +3,8 @@
 palabras = input("Cual es tu nombre completo:")
 cantidad_de_palabras = palabras.split(" ")
 contar_palabras = len(cantidad_de_palabras)
-multiplicar_palabras = contar_palabras / 2
-entero_1 = int(multiplicar_palabras)
+dividir_palabras = contar_palabras / 2
+entero_1 = int(dividir_palabras)
 
 print("----------------------------------A--------------------------------------")
 print(f"Te demorarias {entero_1}s en decir la palabra: {palabras}") 
