@@ -1,4 +1,4 @@
-cadena1 = "hola Soy José y tengo 17"
+cadena1 = "hola,Soy,José,y,tengo,17"
 cadena2 = "estoy aprendiendo Python"
 cadena3 = "2026"
 
