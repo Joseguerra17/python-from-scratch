@@ -21,14 +21,6 @@ Aprender Python desde cero hasta un nivel junior empleable, apuntando a vacantes
 - [ ] Manejo de errores
 - [ ] Algoritmos y estructuras de datos básicas
 
-## 📁 Estructura
-
-```
-├── variables/         # Ejercicios sobre variables, tipos de datos, f-strings, operadores de pertenencia
-├── tipo-de-dato/       # Ejercicios sobre tipos de datos
-├── helloworld.py       # Primer script del curso
-```
-
 ## 🛠️ Proyectos hechos por mi cuenta
 
 Ejercicios resueltos sin seguir tutorial paso a paso, aplicando lo aprendido:
