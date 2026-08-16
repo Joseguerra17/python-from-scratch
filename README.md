@@ -6,7 +6,7 @@ Sigo el curso de fundamentos de **Soy Dalto** en YouTube, escribiendo cada ejerc
 
 ## 🎯 Objetivo
 
-Aprender Python desde cero hasta un nivel junior empleable, apuntando a vacantes remotas como [Desarrollador Python Junior](https://www.linkedin.com/jobs/) para empresas que operan en Chile.
+Aprender Python desde cero hasta un nivel junior empleable, apuntando a vacantes remotas como **Desarrollador Python Junior** para empresas que operan en Chile.
 
 ## 📚 Progreso
 
