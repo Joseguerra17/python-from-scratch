@@ -56,6 +56,7 @@
 
 #grados = clasificador_temperaturas(19)
 
+
 #def clasificador_temperaturas(grados):
    # if (grados < 10):
        # return f"Hace demasiado Frío en tu ciudad: {grados}°C"
@@ -73,9 +74,14 @@
         
 #print(resultado)
 
-def filtrador_notas(notas):
-    notas = list
-    
-    
-resultado = filtrador_notas([65,69,67])
+def filtrador_notas(lista): 
+    lista_vacia = list([])
+    for num in enumerate(lista):
+        num1 = num[1]
+        calculo1 = 1 + num1 / 100 * 6
+        if num1 >= 60:
+            lista_vacia.append(calculo1)
+    return lista_vacia
+
+resultado = filtrador_notas([67,34,22,16,86])
 print(resultado)

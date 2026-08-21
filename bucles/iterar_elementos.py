@@ -7,14 +7,14 @@ numeros = [67,256,375,10]
     #print(animal)
     
 #recorriendo la lista numeros y multiplicando cada valor por 10    
-#for numero in numeros:
-    #resultado = numero * 10
-    #print(resultado)
+for numero in numeros:
+    resultado = numero * 10
+    print(resultado)
     
 #iterando dos listas del mismo tamaño al mismo tiempo    
-#for animal,numero in zip(animales,numeros):
-    #print(f"Mostrando lista 1: {animal}")
-    #print(f"Mostrando lista 2: {numero}")
+for animal,numero in zip(animales,numeros):
+    print(f"Mostrando lista 1: {animal}")
+    print(f"Mostrando lista 2: {numero}")
     
 #forma no optima de recorrer una lista con su indice (no funciona en conjuntos)
 for num in range(len(numeros)):
