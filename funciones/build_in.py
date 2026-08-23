@@ -18,7 +18,7 @@ resultado_bool = bool(16)
 #retorna True, si todos los valores son verdaderos
 resultado_all = all([23,True])
 
-#suma todos los valores de un iterable
+#SUMA TODOS LOS VALORES DE UN ITERABLE
 suma_total = sum(numeros)
 
 print(suma_total)

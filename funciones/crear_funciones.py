@@ -31,7 +31,7 @@
 #creando una funcion que devuelva valores
 #def crear_contraseña_random(num):
     #chars = "akjfomiowfaoi"
-    #num_entero = str(num)
+    #num_entero = str(num) Aqui convertimos el numero en un str para luego obtener el indice. Esto se hace ya que si lo dejamos solo como un numero Python no deja indexar los numeros.
     #num = int(num_entero[0])
     #c1 = num - 2
     #c2 = num

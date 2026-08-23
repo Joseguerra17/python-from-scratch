@@ -1,5 +1,5 @@
 cadena1 = "hola,Soy,José,y,tengo,17"
-cadena2 = "estoy aprendiendo Python"
+cadena2 = "ESTOY APRENDIENDO PYTHON"
 cadena3 = "2026"
 
 #upper convierte a mayuscula
@@ -41,4 +41,4 @@ cadena_nueva = cadena1.replace("José","Lolax")
 #separar cadenas con la cadena que le pasemos
 cadena_separada = cadena1.split(",")
 
-print(cadena_separada)
+print(minusc)

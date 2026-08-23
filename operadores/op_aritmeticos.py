@@ -15,4 +15,20 @@ division_baja = 12//5
 #resto o módulo
 resto = 12 % 5
 
-print(exponente)
+total = 5
+
+total += 3   # total = total + 3
+total -= 3   # total = total - 3
+total *= 3   # total = total * 3
+total /= 3   # total = total / 3
+total //= 3  # total = total // 3   (división entera)
+total %= 3   # total = total % 3    (módulo/resto)
+total **= 3  # total = total ** 3   (potencia)
+
+#OP = Operadores
+
+lista = [5,5]
+
+suma = lista[0] + lista[1]
+
+print(suma)
