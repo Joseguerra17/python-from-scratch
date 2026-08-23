@@ -42,3 +42,7 @@ contador = 0 (antes del for) → for letra por letra → if letra in "aeiou" →
 ## ✅ Aprendizaje
 
 Revisar casos límite antes de dar una solución por terminada: mayúsculas/minúsculas, listas o strings vacíos, el cero, etc. Una solución puede "funcionar" con el ejemplo de prueba usado, y aun así fallar con casos que no se probaron.
+
+---
+
+> 🤖 Ejercicio propuesto por Claude (Anthropic) como práctica para reforzar el patrón `for + if + acumulador`.

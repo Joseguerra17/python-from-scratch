@@ -29,3 +29,7 @@ lista vacía (antes del for) → if dentro del for → append dentro del if → 
 ## ✅ Aprendizaje
 
 Un parámetro solo debería ser una lista si representa **varios** valores a recorrer. Si representa un solo valor (como un límite de comparación), se pasa directo, sin corchetes.
+
+---
+
+> 🤖 Ejercicio propuesto por Claude (Anthropic) como práctica para reforzar el patrón `for + if + acumulador`.

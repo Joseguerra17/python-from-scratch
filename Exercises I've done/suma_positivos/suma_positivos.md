@@ -45,3 +45,7 @@ acumulador numérico = 0 (antes del for) → if dentro del for → suma += num d
 ## ✅ Aprendizaje
 
 - El acumulador de un patrón `for + if` no siempre tiene que ser una lista — puede ser un número que se va sumando (o contando) directamente. Mismo esqueleto, distinto tipo de acumulador.
+
+---
+
+> 🤖 Ejercicio propuesto por Claude (Anthropic) como práctica para reforzar el patrón `for + if + acumulador`.
