@@ -41,7 +41,7 @@ contador = 0 (antes del for) → for letra por letra → if letra in "aeiou" →
 
 ## ✅ Aprendizaje
 
-Revisar casos límite antes de dar una solución por terminada: mayúsculas/minúsculas, listas o strings vacíos, el cero, etc. Una solución puede "funcionar" con el ejemplo de prueba usado, y aun así fallar con casos que no se probaron.
+Revisar casos límite antes de dar una solución por terminada: mayúsculas/minúsculas, listas o strings vacíos, el cero, etc. El bug de las mayúsculas en este ejercicio se detectó razonando la lógica del código, sin necesidad de ejecutarlo con un caso que lo mostrara — una solución puede "funcionar" con el ejemplo probado, y aun así fallar con casos no considerados.
 
 ---
 
