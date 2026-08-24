@@ -37,7 +37,7 @@ contador = 0 (antes del for) → for letra por letra → if letra in "aeiou" →
 ## 🐛 Errores en el camino
 
 1. **Variable pisada:** en el primer intento, dentro de `for vocal in frase:`, sobreescribía la variable `vocal` con `vocal = str(frase)` (la frase completa), perdiendo el valor de la letra individual que el `for` ya entregaba. El resultado salía correcto **por casualidad**, porque `.count()` igual recorre la frase completa por dentro, sin depender del `for` externo — pero ese `for` en realidad no estaba aportando nada.
-2. 🐞 **Bug real detectado en la versión manual:** sin convertir la frase a minúsculas primero (`frase.lower()`), las vocales en mayúscula (como la "E" de "Elsa") no se contaban, porque `"E" in "aeiou"` da `False` — mayúsculas y minúsculas son caracteres distintos para Python.
+2. 🐞 **Bug real detectado** sin convertir la frase a minúsculas primero (`frase.lower()`), las vocales en mayúscula (como la "E" de "Elsa") no se contaban, porque `"E" in "aeiou"` da `False` — mayúsculas y minúsculas son caracteres distintos para Python.
 
 ## ✅ Aprendizaje
 

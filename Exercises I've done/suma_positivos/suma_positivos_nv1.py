@@ -14,7 +14,7 @@ def suma_positivos(lista):
     suma = 0
     for num in (lista):
         if num >= 0:
-            suma = suma + num
+            suma += num #es lo mismo que decir suma = suma + num
     return suma
 
 resultado = suma_positivos([5,22,35,15,125,124,-5,-1234,-14,-2,41])
