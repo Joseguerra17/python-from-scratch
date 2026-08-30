@@ -28,4 +28,4 @@ lista.remove("Jacinta")
 #invirtiendo los elementos de una lista, funciona en cualquier lista
 #lista.reverse()
 
-print(cantidad_elementos)
+print(lista[1])

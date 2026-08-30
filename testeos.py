@@ -9,3 +9,4 @@ print(type(b))  # devuelve una tuple por la coma (,)
 
 for Hola in range(1 ,6):
 	print("Hola")
+ 
