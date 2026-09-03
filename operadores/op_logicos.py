@@ -1,16 +1,16 @@
 #AND
 
-Resultado = True & True #Devuelve True
-Resultado2 = False & True #Devuelve Falso
-Resultado3 = True & False #Devuelve Falso
-Resultado4 = False & False #Devuelve Falso
+Resultado = True and True #Devuelve True
+Resultado2 = False and True #Devuelve Falso
+Resultado3 = True and False #Devuelve Falso
+Resultado4 = False and False #Devuelve Falso
 
 #OR
 
-Resultado5 = True | True #Devuelve True
-Resultado6 = False | True #Devuelve True
-Resultado7 = True | False #Devuelve True
-Resultado8 = False | False #Devuelve Falso
+Resultado5 = True or True #Devuelve True
+Resultado6 = False or True #Devuelve True
+Resultado7 = True or False #Devuelve True
+Resultado8 = False or False #Devuelve Falso
 
 #NOT
 

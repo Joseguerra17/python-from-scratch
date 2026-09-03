@@ -5,6 +5,9 @@ import sys
 
 sys.path.append("c:\\Users\\guerr\\OneDrive\\Desktop\\Python-de-cero\\python-from-scratch\\funciones_up")
 
-import saludar as modulo_saludar
+from saludar import saludo_formal
+from saludar import despedida
 
-print(modulo_saludar.despedida("Kraton"))
+print(saludo_formal("José",17))
+print(despedida("Lola"))
+
