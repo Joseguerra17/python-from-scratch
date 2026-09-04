@@ -1,0 +1,13 @@
+------------------- 
+Nombre: Lola 
+Apellido: Lolera
+------------------- 
+Nombre: Juanito 
+Apellido: El constructor
+------------------- 
+Nombre: Kratos 
+Apellido: El devorador
+------------------- 
+Nombre: Esmeralda 
+Apellido: velera
+-------------------
